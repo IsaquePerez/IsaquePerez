@@ -2,11 +2,11 @@
 <h1 align="center">Olá 👋, Sou o Isaque Perez Rodrigues</h1>
 <h3 align="center">Desenvolvedor de Software Fullstack</h3>
 
-- 🔭 Estou estudando atualmente na Estacio na área de Ads(análise e desenvolvimento de sistemas)**
+- 🔭 Estou estudando atualmente na Estacio na área de **Ads(análise e desenvolvimento de sistemas)**
 
--  ✔ Tenho conhecimento em Java, React-Native, Postgres-Sql, Springboot**
+-  ✔ Tenho conhecimento em **Java, React-Native, Postgres-Sql, Springboot**
 
-- 🌱 Tenho certificado de conclusão da residência em software do Serratec**
+- 🌱 Tenho certificado de conclusão da **Residência em software do Serratec**
 
 - 💬 Me pergunte sobre **Solo Leveling**
 
